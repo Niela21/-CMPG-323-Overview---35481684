@@ -18,7 +18,7 @@ Project-5-35481684
 ![projectrepo](https://user-images.githubusercontent.com/110601881/184497395-29cd3c2d-9acb-42ad-91e3-eada4c9f715b.jpg)
 
 ## Branching strategy
-The branching strategy I will be following for each project is Trunc Based Development. This basically means that I will not be making use of any branches, but rather push straight into the main branch once I am satisfied with my work.
+For each project I will not be following any specific branching strategy, but rather push straight to the main branch if I am satisfied with the work I have done. However, this may change should it become evident that it would beneficial for me to adopt a strategy in which case I will state what strategy I used and for which project I used the strategy.
 ## The use of .gitignore
 In every project I will use .gitignore for any files that I may believe to to be unnecessary. Such files may include back up files or credentials. 
 ## Storing of sensitive information
