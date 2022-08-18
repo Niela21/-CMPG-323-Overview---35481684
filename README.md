@@ -14,7 +14,7 @@ Project-4-35481684
 Project-5-35481684
 
 ## Project and Repository context
-Please note that I have added the burndown chart for the project in the Readme at insights
+Please note that I have added the burndown chart for the project in the Project Details Readme
 
 ![projectrepo](https://user-images.githubusercontent.com/110601881/184497395-29cd3c2d-9acb-42ad-91e3-eada4c9f715b.jpg)
 
